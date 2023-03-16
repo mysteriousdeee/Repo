@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Daniel by name
-- 👀 I’m interested in being a python backend developer and getting cybersecurity skills
+- 👀 I’m interested in learning python for automation and cybersecurity application.
 - 🌱 I’m currently learning python from scratch
-- 💞️ I’m looking to collaborate on any projects that would relevant to my python journey
-- 📫 Reach me: okoro.daniel98@gmail.com
+- 💞️ I’m looking to collaborate on any projects that would be relevant to my python journey
+- 📫 Reach me: okoro-daniel@outlook.com
 
 <!---
 mysteriousdeee/mysteriousdeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
